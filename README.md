@@ -7,7 +7,7 @@
 
 
 
-<img src="./PG.gif">
+<img src="./TechieBlogging.gif">
 
 
 
