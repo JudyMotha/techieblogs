@@ -7,7 +7,6 @@
 
 Thanks to my teachers Roger ,Frank and Steven for helping me with HW
 
-<img src="./TechieBlogging.gif">
 
 
 
