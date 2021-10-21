@@ -10,6 +10,6 @@ Thanks to my teachers Roger ,Frank and Steven for helping me with HW
 * Referred David Hallinan https://www.youtube.com/watch?v=AQp7b-1356k( Deploying to Heroku with Sequelize and JawsDB Youtube 
 
 
-
+<img src="./TechieBlogging.gif">
 
 
